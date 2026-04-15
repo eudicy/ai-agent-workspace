@@ -36,14 +36,6 @@ This prompt guides the agent to research architectural decisions, evaluate optio
 
 This prompt guides the agent to iteratively improve the document under review.
 
-## update-docs-from-memory-bank.md - Permanently Document Learnings
-
-**Goal**: Transfer Insights from Memory Bank to Better Places
-**Prompt**: [update-docs-from-memory-bank.md](/.cursor/commands/update-docs-from-memory-bank.md)
-**Prerequisite**: `follow your custom instructions`
-
-The goal is to identify important insights in the volatile memory bank. These insights shall be moved to appropriate places in the permanent documentation.
-
 ## Prompts not converted to commands yet
 
 >[!NOTE]
